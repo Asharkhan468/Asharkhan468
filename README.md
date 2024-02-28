@@ -2,12 +2,24 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashar Khan</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/200.gif">
-
+<h3 align="center">A PASSIONATE FRONTEND DEVELOPER!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharkhan468&label=Profile%20views&color=0e75b6&style=flat" alt="asharkhan468" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+<p>Welcome to my GitHub profile! I'm Ashar Khan, a frontend developer passionate about creating awesome websites and applications that people love to use.
+
+I enjoy turning design concepts into reality using HTML, CSS, and JavaScript. From building responsive layouts to adding interactive features, I love every aspect of bringing a project to life on the web.
+
+My goal is to make websites not only look great but also easy to use for everyone. I believe in clean code and user-friendly interfaces that make navigating the web a breeze.
+
+I'm always learning and exploring new techniques to stay up-to-date with the latest trends in frontend development. Whether it's learning a new framework or experimenting with a cool animation library, I'm eager to expand my skills and knowledge.
+
+Let's collaborate and create something amazing together! Feel free to explore my projects and reach out if you have any ideas or opportunities to work together. Together, we can build the web of tomorrow, one line of code at a time.
+
+
+
+
+
+</p>
 
 - 💬 Ask me about **Javascript , Next js , React**
 
