@@ -38,5 +38,3 @@ Let's collaborate and create something amazing together! Feel free to explore my
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asharkhan468&show_icons=true&locale=en" alt="asharkhan468" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asharkhan468&" alt="asharkhan468" /></p>
-
