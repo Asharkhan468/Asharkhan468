@@ -21,7 +21,7 @@ Let's collaborate and create something amazing together! Feel free to explore my
 
 </p>
 
-- 💬 Ask me about **Javascript , Next js , React**
+- 💬 Ask me about **Javascript , React**
 
 - 📫 How to reach me **asharullah.khan2468@gmail.com**
 
