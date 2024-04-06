@@ -11,7 +11,7 @@ I enjoy turning design concepts into reality using HTML, CSS, and JavaScript. Fr
 
 My goal is to make websites not only look great but also easy to use for everyone. I believe in clean code and user-friendly interfaces that make navigating the web a breeze.
 
-I'm always learning and exploring new techniques to stay up-to-date with the latest trends in frontend development. Whether it's learning a new framework or experimenting with a cool animation library, I'm eager to expand my skills and knowledge.
+I'm always learning and exploring new techniques to stay up-to-date with the latest trends in the development. Whether it's learning a new framework or experimenting with a cool animation library, I'm eager to expand my skills and knowledge.
 
 Let's collaborate and create something amazing together! Feel free to explore my projects and reach out if you have any ideas or opportunities to work together. Together, we can build the web of tomorrow, one line of code at a time.
 
