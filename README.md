@@ -5,7 +5,6 @@
 <h3 align="center">A PASSIONATE MERN STACK DEVELOPER!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharkhan468&label=Profile%20views&color=0e75b6&style=flat" alt="asharkhan468" /> </p>
 
-<p>Certainly! Here's a different approach for your GitHub profile "About Me" section:
 
 ---
 
