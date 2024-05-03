@@ -20,9 +20,9 @@
 
  Let's Connect! Whether you're a fellow developer, a potential collaborator, or simply share my passion for all things tech, I'd love to connect! Feel free to reach out for a chat, collaboration opportunity, or just to swap coding stories over a virtual cup of coffee.
 
----
 
-Feel free to tweak this to better suit your style and personality!
+
+
 
 
 
@@ -35,9 +35,8 @@ Feel free to tweak this to better suit your style and personality!
 
 
 
-- 🌱 I’m currently learning MERN Stack Development
 
-- 💬 Ask me about **Javascript , React**
+- 💬 Ask me about **Javascript , React , Typescript **
 
 - 📫 How to reach me **asharullah.khan2468@gmail.com**
 
