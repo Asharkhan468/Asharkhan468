@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashar Khan</h1>
-<h3 align="center">A PASSIONATE MERN STACK DEVELOPER!</h3>
+<h3 align="center">A PASSIONATE SOFTWARE DEVELOPER!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asharkhan468&label=Profile%20views&color=0e75b6&style=flat" alt="asharkhan468" /> </p>
 
 
